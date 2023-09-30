@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1053625372190",
+    "project_id": "vigi-4e754",
+    "storage_bucket": "vigi-4e754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053625372190:android:1b95f3f113e2ae5cf6280f",
+        "android_client_info": {
+          "package_name": "com.example.vigi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053625372190-fvrl9qh5lvr0n28sbonura3djvesfo4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vigi_app",
+            "certificate_hash": "cee10f667c6f5790413812aa08daab3ff5639865"
+          }
+        },
+        {
+          "client_id": "1053625372190-2vgqmu8ou7gtt9lu2g31ictb2epqkhuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjrpSQj2m2EAmi7kg-GQawS3v8G_jS3dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053625372190-2vgqmu8ou7gtt9lu2g31ictb2epqkhuu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053625372190-ku06acaskju0gar8uctgnhpvr10ee2ff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vigiApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

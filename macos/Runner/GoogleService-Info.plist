@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAmFceauI4e_yfJn5ZnoDohsgiY8Di2xBA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1053625372190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.vigiApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>vigi-4e754</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vigi-4e754.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1053625372190:ios:4b12bc737720bd83f6280f</string>
+</dict>
+</plist>
